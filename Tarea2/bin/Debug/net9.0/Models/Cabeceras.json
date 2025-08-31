@@ -1,0 +1,121 @@
+[
+  {
+    "ID": 1,
+    "Nombre": "León",
+    "Longitud": -86.87642017,
+    "Latitud": 12.43631641,
+    "Imagen": "/img/leon.jpeg"
+  },
+  {
+    "ID": 2,
+    "Nombre": "Managua",
+    "Longitud": -86.25385840,
+    "Latitud": 12.14057595,
+    "Imagen": "/img/managua.jpg"
+  },
+  {
+    "ID": 3,
+    "Nombre": "Chinandega",
+    "Longitud": -87.12871449,
+    "Latitud": 12.62679055,
+    "Imagen": "/img/chinandega.jpg"
+  },
+  {
+    "ID": 4,
+    "Nombre": "Jinotepe",
+    "Longitud": -86.16998703,
+    "Latitud": 11.81492113,
+    "Imagen": "/img/jinotepe.jpg"
+  },
+  {
+    "ID": 5,
+    "Nombre": "Masaya",
+    "Longitud": -86.13582738,
+    "Latitud": 11.97445696,
+    "Imagen": "/img/masaya.jpeg"
+  },
+  {
+    "ID": 6,
+    "Nombre": "Rivas",
+    "Longitud": -85.80905247,
+    "Latitud": 11.39369854,
+    "Imagen": "/img/rivas.jpeg"
+  },
+  {
+    "ID": 7,
+    "Nombre": "Estelí",
+    "Longitud": -86.38085746,
+    "Latitud": 13.10857769,
+    "Imagen": "/img/esteli.jpeg"
+  },
+  {
+    "ID": 8,
+    "Nombre": "Matagalpa",
+    "Longitud": -85.92094990,
+    "Latitud": 12.94968055,
+    "Imagen": "/img/matagalpa.jpg"
+  },
+  {
+    "ID": 9,
+    "Nombre": "Jinotega",
+    "Longitud": -86.00906702,
+    "Latitud": 13.09084954,
+    "Imagen": "/img/jinotega.jpg"
+  },
+  {
+    "ID": 10,
+    "Nombre": "Somoto",
+    "Longitud": -86.62536323,
+    "Latitud": 13.49840905,
+    "Imagen": "/img/somoto.jpeg"
+  },
+  {
+    "ID": 11,
+    "Nombre": "Granada",
+    "Longitud": -85.96133153,
+    "Latitud": 11.94439496,
+    "Imagen": "/img/granada.jpeg"
+  },
+  {
+    "ID": 12,
+    "Nombre": "Juigalpa",
+    "Longitud": -85.36874221,
+    "Latitud": 12.13518983,
+    "Imagen": "/img/juigalpa.jpg"
+  },
+  {
+    "ID": 13,
+    "Nombre": "Ocotal",
+    "Longitud": -86.47587653,
+    "Latitud": 13.62757770,
+    "Imagen": "/img/ocotal.jpg"
+  },
+  {
+    "ID": 14,
+    "Nombre": "Boaco",
+    "Longitud": -85.65714169,
+    "Latitud": 12.53017828,
+    "Imagen": "/img/boaco.jpeg"
+  },
+  {
+    "ID": 15,
+    "Nombre": "San Carlos",
+    "Longitud": -84.76243491,
+    "Latitud": 11.13015877,
+    "Imagen": "/img/san carlos.jpg"
+  },
+  {
+    "ID": 16,
+    "Nombre": "Puerto Cabezas",
+    "Longitud": -83.36990974,
+    "Latitud": 14.07505000,
+    "Imagen": "/img/puerto cabezas.jpg"
+  },
+  {
+    "ID": 17,
+    "Nombre": "Bluefields",
+    "Longitud": -83.76543314,
+    "Latitud": 12.01200490,
+    "Imagen": "/img/bluefields.jpeg"
+  }
+]

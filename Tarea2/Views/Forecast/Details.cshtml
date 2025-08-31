@@ -1,0 +1,21 @@
+﻿@model Tarea2.Models.CurrentForecast
+
+
+<div class="row mb-4">
+    <div class="col-md-8">
+        <img src="@ViewBag.imagen" class="d-block w-100" alt="@ViewBag.nombre">
+    </div>
+
+    <div class="col-md-4">
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item"><h3>@ViewBag.nombre</h3></li>
+            <li class="list-group-item">Longitud: @Model.Metadata.Longitude</li>
+            <li class="list-group-item">Latitud: @Model.Metadata.Latitude</li>
+            <li class="list-group-item">Altura sobre el nivel del mar: @Model.Metadata.Altitude</li>
+            <li class="list-group-item">Huso Horario: UTC @Model.Metadata.UtcTimeOffset</li>
+            <li class="list-group-item">Velocidad del viento: @Model.DataCurrent.WindSpeed m/s</li>
+            <li class="list-group-item">Temperatura actual: @Model.DataCurrent.Temperature º @Model.Units.Temperature</li>
+        </ul>
+        <a href="/Forecast/" class="mt-3 btn btn-info">Regresar</a>
+    </div>
+</div>

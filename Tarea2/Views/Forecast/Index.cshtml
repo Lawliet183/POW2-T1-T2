@@ -1,0 +1,26 @@
+﻿@model List<Tarea2.Models.Cabecera>
+
+<form class="form-inline" method="POST" action="/Forecast/Find">
+	<div class="form-group mx-sm-3 mb-2">
+		<label class="mr-3">Buscar cabecera departamental</label>
+		<input type="text" class="form-control" required name="cabecera" />
+	</div>
+	<button type="submit" class="btn btn-primary mb-2">Buscar</button>
+</form>
+
+<div class="row">
+	@foreach (var item in Model)
+	{
+		<div class="col-md-3">
+			<div class="card mb-3">
+				<img src="@item.Imagen" class="car-img-top" alt="..." />
+				<div class="card-body">
+					<h5 class="card-title">@item.Nombre</h5>
+					<p class="card-text">Longitud: @item.Longitud</p>
+					<p class="card-text">Latitud: @item.Latitud</p>
+					<a href="/Forecast/Details/@item.ID" class="btn btn-primary">Ver más</a>
+				</div>
+			</div>
+		</div>
+	}
+</div>

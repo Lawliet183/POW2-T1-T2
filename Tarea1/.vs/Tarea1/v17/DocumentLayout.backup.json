@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|l:\\programming\\visual studio\\programacion orientada a la web ii\\tarea1\\controllers\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|solutionrelative:controllers\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|l:\\programming\\visual studio\\programacion orientada a la web ii\\tarea1\\controllers\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|solutionrelative:controllers\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|l:\\programming\\visual studio\\programacion orientada a la web ii\\tarea1\\views\\ejercicio1\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|solutionrelative:views\\ejercicio1\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|l:\\programming\\visual studio\\programacion orientada a la web ii\\tarea1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|l:\\programming\\visual studio\\programacion orientada a la web ii\\tarea1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|l:\\programming\\visual studio\\programacion orientada a la web ii\\tarea1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|l:\\programming\\visual studio\\programacion orientada a la web ii\\tarea1\\views\\ejercicio1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|solutionrelative:views\\ejercicio1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|l:\\programming\\visual studio\\programacion orientada a la web ii\\tarea1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|l:\\programming\\visual studio\\programacion orientada a la web ii\\tarea1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio2.cs",
+              "DocumentMoniker": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\Controllers\\Ejercicio2.cs",
+              "RelativeDocumentMoniker": "Controllers\\Ejercicio2.cs",
+              "ToolTip": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\Controllers\\Ejercicio2.cs",
+              "RelativeToolTip": "Controllers\\Ejercicio2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T23:24:55.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Perfil.cshtml",
+              "DocumentMoniker": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\Views\\Ejercicio1\\Perfil.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ejercicio1\\Perfil.cshtml",
+              "ToolTip": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\Views\\Ejercicio1\\Perfil.cshtml",
+              "RelativeToolTip": "Views\\Ejercicio1\\Perfil.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T23:08:36.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\Views\\Ejercicio1\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ejercicio1\\Index.cshtml",
+              "ToolTip": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\Views\\Ejercicio1\\Index.cshtml",
+              "RelativeToolTip": "Views\\Ejercicio1\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T22:22:46.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio1.cs",
+              "DocumentMoniker": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\Controllers\\Ejercicio1.cs",
+              "RelativeDocumentMoniker": "Controllers\\Ejercicio1.cs",
+              "ToolTip": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\Controllers\\Ejercicio1.cs",
+              "RelativeToolTip": "Controllers\\Ejercicio1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T22:07:35.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T21:56:38.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T21:56:34.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T21:55:35.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T21:54:39.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T21:38:15.931Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
