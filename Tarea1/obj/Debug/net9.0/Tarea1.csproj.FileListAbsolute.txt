@@ -96,3 +96,5 @@ L:\Programming\Visual Studio\Programacion Orientada a la Web II\Tarea1\obj\Debug
 L:\Programming\Visual Studio\Programacion Orientada a la Web II\Tarea1\obj\Debug\net9.0\ref\Tarea1.dll
 L:\Programming\Visual Studio\Programacion Orientada a la Web II\Tarea1\obj\Debug\net9.0\Tarea1.Properties.Resources.resources
 L:\Programming\Visual Studio\Programacion Orientada a la Web II\Tarea1\obj\Debug\net9.0\Tarea1.csproj.GenerateResource.cache
+L:\Programming\Visual Studio\Programacion Orientada a la Web II\Tarea1\obj\Debug\net9.0\Tarea1.sourcelink.json
+L:\Programming\Visual Studio\Programacion Orientada a la Web II\Tarea1\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

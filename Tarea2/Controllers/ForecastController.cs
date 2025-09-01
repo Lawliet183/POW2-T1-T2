@@ -62,9 +62,9 @@ namespace Tarea2.Controllers
 			string? locationName = jsonObj["metadata"]["name"].ToString();
 			int altitude = jsonObj["metadata"]["height"].Value<int>();
 			string? timezone = jsonObj["metadata"]["timezone_abbrevation"].ToString();
-			double latitude = jsonObj["metadata"]["latitude"].Value<double>();
+			decimal latitude = jsonObj["metadata"]["latitude"].Value<decimal>();
 			DateTime modelrunUtc = jsonObj["metadata"]["modelrun_utc"].Value<DateTime>();
-			double longitude = jsonObj["metadata"]["longitude"].Value<double>();
+			decimal longitude = jsonObj["metadata"]["longitude"].Value<decimal>();
 			int utcTimeOffset = jsonObj["metadata"]["utc_timeoffset"].Value<int>();
 			double generationTimeInMs = jsonObj["metadata"]["generation_time_ms"].Value<double>();
 

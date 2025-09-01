@@ -435,3 +435,4 @@ L:\Programming\Visual Studio\Programacion Orientada a la Web II\Tarea2\obj\Debug
 L:\Programming\Visual Studio\Programacion Orientada a la Web II\Tarea2\obj\Debug\net9.0\Tarea2.MvcApplicationPartsAssemblyInfo.cs
 L:\Programming\Visual Studio\Programacion Orientada a la Web II\Tarea2\obj\Debug\net9.0\Tarea2.csproj.Up2Date
 L:\Programming\Visual Studio\Programacion Orientada a la Web II\Tarea2\bin\Debug\net9.0\Models\Cabeceras.json
+L:\Programming\Visual Studio\Programacion Orientada a la Web II\Tarea2\obj\Debug\net9.0\Tarea2.sourcelink.json

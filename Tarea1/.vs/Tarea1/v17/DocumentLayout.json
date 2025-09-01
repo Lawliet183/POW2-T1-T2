@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|l:\\programming\\visual studio\\programacion orientada a la web ii\\tarea1\\controllers\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|solutionrelative:controllers\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|l:\\programming\\visual studio\\programacion orientada a la web ii\\tarea1\\controllers\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|solutionrelative:controllers\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|l:\\programming\\visual studio\\programacion orientada a la web ii\\tarea1\\controllers\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|solutionrelative:controllers\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|l:\\programming\\visual studio\\programacion orientada a la web ii\\tarea1\\views\\ejercicio1\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,19 +46,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Ejercicio2.cs",
               "DocumentMoniker": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\Controllers\\Ejercicio2.cs",
               "RelativeDocumentMoniker": "Controllers\\Ejercicio2.cs",
               "ToolTip": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\Controllers\\Ejercicio2.cs",
               "RelativeToolTip": "Controllers\\Ejercicio2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T23:24:55.24Z"
+              "WhenOpened": "2025-08-23T23:24:55.24Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -86,13 +87,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Ejercicio1.cs",
               "DocumentMoniker": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\Controllers\\Ejercicio1.cs",
               "RelativeDocumentMoniker": "Controllers\\Ejercicio1.cs",
               "ToolTip": "L:\\Programming\\Visual Studio\\Programacion Orientada a la Web II\\Tarea1\\Controllers\\Ejercicio1.cs",
               "RelativeToolTip": "Controllers\\Ejercicio1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-23T22:07:35.486Z",
               "EditorCaption": ""

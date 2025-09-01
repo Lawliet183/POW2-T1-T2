@@ -1,22 +1,5 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\img\bluefields.jpeg
-wwwroot\img\boaco.jpeg
-wwwroot\img\chinandega.jpg
-wwwroot\img\esteli.jpeg
-wwwroot\img\granada.jpeg
-wwwroot\img\jinotega.jpg
-wwwroot\img\jinotepe.jpg
-wwwroot\img\juigalpa.jpg
-wwwroot\img\leon.jpeg
-wwwroot\img\managua.jpg
-wwwroot\img\masaya.jpeg
-wwwroot\img\matagalpa.jpg
-wwwroot\img\ocotal.jpg
-wwwroot\img\puerto cabezas.jpg
-wwwroot\img\rivas.jpeg
-wwwroot\img\san carlos.jpg
-wwwroot\img\somoto.jpeg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -78,6 +61,23 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\img\bluefields.jpeg
+wwwroot\img\boaco.jpeg
+wwwroot\img\chinandega.jpg
+wwwroot\img\esteli.jpeg
+wwwroot\img\granada.jpeg
+wwwroot\img\jinotega.jpg
+wwwroot\img\juigalpa.jpg
+wwwroot\img\leon.jpeg
+wwwroot\img\managua.jpg
+wwwroot\img\masaya.jpeg
+wwwroot\img\matagalpa.jpg
+wwwroot\img\ocotal.jpg
+wwwroot\img\puerto cabezas.jpg
+wwwroot\img\rivas.jpeg
+wwwroot\img\san carlos.jpg
+wwwroot\img\somoto.jpeg
+wwwroot\img\jinotepe.jpg
 L:\Programming\Visual Studio\Programacion Orientada a la Web II\Tarea2\wwwroot\css\site.css
 L:\Programming\Visual Studio\Programacion Orientada a la Web II\Tarea2\wwwroot\favicon.ico
 L:\Programming\Visual Studio\Programacion Orientada a la Web II\Tarea2\wwwroot\js\site.js
